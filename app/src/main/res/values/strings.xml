@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WikitudeApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ar">ARActivity</string>
+    <string name="location_fetching">Trying to find out where you are</string>
+</resources>
